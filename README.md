@@ -1,12 +1,9 @@
-- 👋 Hi, I’m Sandira Sudamsith
-- 👀 I’m interested in Backend
-- 🌱 I’m currently learning Frontend & Backend
-- 💞️ I’m looking to collaborate on Frontend
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sudamsiths&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sudamsiths&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudamsiths&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!---
-sudamsiths/sudamsiths is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+[![](https://visitcount.itsvg.in/api?id=sudamsiths&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
