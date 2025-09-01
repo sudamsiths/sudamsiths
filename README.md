@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sadirasudamsith12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandira-liyanage-73627b226/) 
 
-![](https://komarev.com/ghpvc/?username=sudamsiths)
+                                                                          ![](https://komarev.com/ghpvc/?username=sudamsiths)
 
 
 # 💻 Tech Stack:
